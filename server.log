@@ -1,0 +1,10 @@
+[2024-05-15 10:23:45] INFO: Server started on port 8080
+[2024-05-15 10:23:50] GET /index.html 200 12ms
+[2024-05-15 10:24:01] POST /api/login 401 25ms (Invalid credentials)
+[2024-05-15 10:24:15] GET /static/style.css 304 5ms (Cached)
+[2024-05-15 10:24:30] WARNING: High CPU usage detected (92%)
+[2024-05-15 10:25:00] ERROR: Database connection timeout
+[2024-05-15 10:25:30] INFO: Backup completed successfully
+[2024-05-15 10:26:00] GET /api/data 200 45ms
+[2024-05-15 10:26:15] CRITICAL: Disk space low (5% remaining)
+[2024-05-15 10:26:45] INFO: User "admin" logged in
